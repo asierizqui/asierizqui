@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @asierizqui
-- 👀 I’m interested in Physics Research (Gravitation and Cosmology, Quantum Information, Mathematics, ...)
-- 🌱 I’m currently learning Gravitation and Cosmology and Quantum Information
-- 💞️ I’m looking to collaborate on Physics Research
-- 📫 Reach me at asierizqui@gmail.com ✨ 
-
+- 👋 Hi, I’m Asier.
+- 👀 I’m interested in Quantum Information, Classical and Quantum Gravity and Cosmology, Relativistic Quantum Information, Mathematical Physics, ...
+- 🌱 I’m currently working on the University of the Basque Country.
+- 💞️ I’m looking to collaborate on Physics Research.
+- 📫 Reach me at asierizqui@gmail.com ✨.
