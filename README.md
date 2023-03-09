@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Asier.
+- 👋 Hey! I’m Asier.
 - 👀 I’m interested in Quantum Information, Classical and Quantum Gravity and Cosmology, Relativistic Quantum Information, Mathematical Physics, ...
 - 🌱 I’m currently working at the University of the Basque Country.
 - 💞️ I’m looking to collaborate on research!
